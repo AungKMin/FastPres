@@ -8,7 +8,6 @@ import re
 
 @csrf_exempt
 def index(request):
-
     text = json.loads(request.body)["test"]
     app = PresentationConverter(text)
     app.process_text()

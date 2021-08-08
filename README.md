@@ -35,7 +35,7 @@ python main.py
 ### Installation
 Run `npm install` in the `client` folder.
 
-Install the python dependencies found in `requirements.txt` in `python_server`. 
+Install the python dependencies found in `requirements.txt` in `python_server/pres_gen`. 
 
 ### Executing program
 In `python_server/pres_gen`,
