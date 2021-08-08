@@ -1,0 +1,32 @@
+FastPres
+Create presentations fast
+
+How it works
+image: logo.png
+Write a simple text file
+Run the program 
+Get a formatted .pptx file ready to present
+
+How it was built
+image: logo.png
+Python
+Django
+React
+
+Image Slide
+image: stock_image.jpg
+
+Notes
+image: logo.png
+You must have a title slide
+The other slides must have a title; everything else is optional
+
+Current version's limitations
+Currently, images only work with the local python script
+
+What's Next
+image: logo.png
+Graphs
+More customizability: option to set font size, color, etc
+Save templates to user account
+
