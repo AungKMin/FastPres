@@ -1,5 +1,9 @@
 # FastPres
 
+Demo: https://devpost.com/software/fastpres
+
+Hosted here: https://presfast.netlify.app/
+
 There are two versions of FastPres:
 * Python  Script
 * Web

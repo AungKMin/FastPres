@@ -13,8 +13,6 @@ def index(request):
     app.process_text()
     prs = app.create_presentation()
 
-    target_stream = BytesIO()
-    prs.save(target_stream)
     response = HttpResponse(content_type='application/vnd.ms-powerpoint')
     response['Content-Disposition'] = 'attachment; filename="sample.pptx"'
     source_stream = BytesIO()
